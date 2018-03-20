@@ -1,3 +1,3 @@
-function oadIssue () {
+function loadIssue () {
 
 }
